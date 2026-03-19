@@ -1,2 +1,3 @@
-# flex-video-platform-7j6c
-A video hosting platform for modern development workflows
+# Flex Video Platform 7J6C
+
+A video hosting platform for modern development workflows.
